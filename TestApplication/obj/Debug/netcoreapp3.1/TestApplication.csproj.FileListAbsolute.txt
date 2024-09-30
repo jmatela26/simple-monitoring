@@ -1,0 +1,131 @@
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\appsettings.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Data\Account.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Data\MonitorData.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Data\QueueGroup.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.pdb
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.AssemblyReference.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Manifest.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Pack.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TestApplication.Microsoft.AspNetCore.StaticWebAssets.props
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TestApplication.props
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TestApplication.props
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TestApplication.props
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.input.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.output.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorCoreGenerate.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cache
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cs
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.Views.pdb
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+\\vm-bbi-fs\Agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
+\\vm-bbi-fs\agency\Non-Operations\IT\Team\z_T_Development\Personal\SJ\CCC Testaufgabe Anwendungsentwickler\TestApplication\TestApplication\obj\Debug\netcoreapp3.1\TestAppl.0E61BE57.Up2Date
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Data\Account.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Data\MonitorData.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Data\QueueGroup.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.exe
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.deps.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.runtimeconfig.dev.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.pdb
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\TestApplication.Views.pdb
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.NodeServices.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.SpaServices.Extensions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.AssemblyReference.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfoInputs.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.AssemblyInfo.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.csproj.CoreCompileInputs.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorAssemblyInfo.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.sourcelink.json
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.input.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.TagHelpers.output.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorCoreGenerate.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.RazorTargetAssemblyInfo.cs
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.Views.pdb
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Manifest.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\TestApplication.StaticWebAssets.Pack.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TestApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TestApplication.props
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TestApplication.props
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TestApplication.props
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestAppl.0E61BE57.Up2Date
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.pdb
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\obj\Debug\netcoreapp3.1\TestApplication.genruntimeconfig.cache
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\josiah\OneDrive\Desktop\Telus\TestApplication\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
